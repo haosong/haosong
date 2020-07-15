@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/haosong/haosong/blob/master/aliens-computer-room.gif)
 
 <!--
 **haosong/haosong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
